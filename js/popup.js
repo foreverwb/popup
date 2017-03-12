@@ -10,7 +10,7 @@
       });
     }
   }
-  var backTccYYDefault={//YY是阴影偶别想多了。。哈哈
+  var backTccYYDefault={//阴影
     container:''
   }
   var backTccYY = function (opt) {
