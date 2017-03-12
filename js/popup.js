@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2015/7/28.
+ * Created by Administrator on 2016/12/2.
  */
 (function ($,wind) {
   var backTccPrivate={
